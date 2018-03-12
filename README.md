@@ -194,6 +194,12 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
 * [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)
 * [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
+* [64-bit Linux stack smashing tutorial: Part 1](https://blog.techorganic.com/2015/04/10/64-bit-linux-stack-smashing-tutorial-part-1/)
+* [64-bit Linux stack smashing tutorial: Part 2](https://blog.techorganic.com/2015/04/21/64-bit-linux-stack-smashing-tutorial-part-2/)
+* [64-bit Linux stack smashing tutorial: Part 3](https://blog.techorganic.com/2016/03/18/64-bit-linux-stack-smashing-tutorial-part-3/)
+* [Introduction to Linux 64 bit  Binary Exploitation PDF](https://speakerd.s3.amazonaws.com/presentations/a58a3baa204d4b04a95ed56481c306aa/DC416_Intro_To_Exploitation.pdf)
+
+
 
 Privilege Escalation
 --
