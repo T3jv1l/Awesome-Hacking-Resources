@@ -84,7 +84,7 @@ Name | Description
 ---- | ----
 [BinNavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
 [Radare2](https://github.com/radare/radare2) | Radare2 is a reverse engineering suite which includes a complete toolkit for reverse enigneering needs. 
-
+[GDB-PEDA](https://github.com/longld/peda) |PEDA - Python Exploit Development Assistance for GDB. "Enhance the display of gdb: colorize and display disassembly codes, registers, memory information during debugging"
 ### Collaboration tools
 Name | Description
 ---- | ----
